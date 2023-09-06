@@ -1,0 +1,31 @@
+Device: Mi 10T/Pro
+Device Codename : Apollo
+Device maintainer: NutellaDev
+==================================
+==================================
+DATE - 06/09/2023
+==================================
+-Initial stable build
+-ViperFX added 
+-Aperture is default 
+-One Plus 9R Dolby by default
+-Leica Mod_GLNRALR_4.7.230127.0 by default.
+-Per app refresh rate added (60/90/120/144) 
+-Thermal profiles added 
+-Implement Clear Speaker 
+-Add per app maximum refresh rate 
+-Introduce Refresh Rate QS tile
+-Use directBootAware  
+-Enable GL comp backpressure 
+-Set props to improve smoother scrolling and better responsiveness 
+-Kang surfaceFlinger offsets from taro 
+-Fix the Screen Lag during Screen Recording 
+-Add a system property for System UI compiler filter 
+-Use the new auto network selection UI 
+-Enable performant auth feature 
+-Import QTI MediaCodecs 
+-Import LDAC and LHDC prebuilts 
+-Import OzoAudio Engine prebuilts 
+-Import Xiaomi TouchFeature service 
+-Redline 4.19.282 is default kernel
+-CTS passed by default
